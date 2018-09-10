@@ -1,0 +1,7 @@
+c:\users\shlou\source\repos\IWillFinishIt\IWillFinishIt\bin\Debug\IWillFinishIt.exe.config
+c:\users\shlou\source\repos\IWillFinishIt\IWillFinishIt\bin\Debug\IWillFinishIt.exe
+c:\users\shlou\source\repos\IWillFinishIt\IWillFinishIt\bin\Debug\IWillFinishIt.pdb
+c:\users\shlou\source\repos\IWillFinishIt\IWillFinishIt\obj\Debug\IWillFinishIt.csprojResolveAssemblyReference.cache
+c:\users\shlou\source\repos\IWillFinishIt\IWillFinishIt\obj\Debug\IWillFinishIt.csproj.CoreCompileInputs.cache
+c:\users\shlou\source\repos\IWillFinishIt\IWillFinishIt\obj\Debug\IWillFinishIt.exe
+c:\users\shlou\source\repos\IWillFinishIt\IWillFinishIt\obj\Debug\IWillFinishIt.pdb
